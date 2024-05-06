@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122678377656",
+    "project_id": "viper-electric-appliances-shop",
+    "storage_bucket": "viper-electric-appliances-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122678377656:android:615d8322b66bebd28d884d",
+        "android_client_info": {
+          "package_name": "com.example.viper_electric_appliances_webshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcAS7jE67AKqIB0bW2SB46G9xHAaVR5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
